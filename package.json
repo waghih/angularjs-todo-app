@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo-application",
+  "version": "0.2.5",
+  "description": "A simple To-Do Application using Angular JS",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "license": "MIT"
+}

@@ -57,4 +57,3 @@ app.controller('TodoCtrl', function($scope,$localStorage) {
   };
 
 })
-

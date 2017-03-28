@@ -1,0 +1,18 @@
+input:not([type]) {
+  margin: 0;
+  padding-left: 20px;
+  border-bottom: 0;
+}
+
+input:not([type]):focus:not([readonly]) {
+  border-bottom: 0px;
+  box-shadow: none;
+}
+
+.secondary-content {
+  cursor: pointer;
+}
+
+.remaining-index {
+  margin-right: 10px;
+}
